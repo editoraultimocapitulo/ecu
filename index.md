@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Bem Vindo à Editora Último Capítulo
 ---
 
